@@ -1,0 +1,4 @@
+.start
+start-time.txt
+node_modules/
+.env

@@ -1,0 +1,6 @@
+# test file: real packages + one made-up name + the package from reel #5
+requests>=2.31
+numpy
+flask==3.0.0
+huggingface-cli
+django-smart-cache-xyz123

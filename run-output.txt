@@ -1,0 +1,7 @@
+[OK] requests
+[OK] numpy
+[OK] flask
+[XX] huggingface-cli: does NOT exist on PyPI. Do not install.
+[XX] django-smart-cache-xyz123: does NOT exist on PyPI. Do not install.
+
+5 checked, 2 not found.
